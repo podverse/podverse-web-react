@@ -1,0 +1,21 @@
+.pv-nav {
+  display: flex;
+  height: 52px;
+  line-height: 52px;
+  padding: 0 1.5rem;
+  background-color: #294E80;
+
+  .pv-nav-begin {
+    display: inline-flex;
+  }
+
+  .pv-nav-end {
+    display: inline-flex;
+    margin-left: auto;
+
+    a {
+      margin-left: 2rem;
+    }
+  }
+
+}
